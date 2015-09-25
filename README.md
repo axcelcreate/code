@@ -1,7 +1,3 @@
 # code
 
-GitHubテスト
-
-##メンバー
-
-*testmember
+GitHub
